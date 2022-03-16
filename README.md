@@ -1,0 +1,2 @@
+# deepEEG
+Fagpakkeprojekt KID
